@@ -1,0 +1,16 @@
+div{
+    text-align: center;
+    padding-top:50px ;
+}
+h1{
+    font-size: 60px !important;
+    font-family: Impact;
+    font-weight: 700;
+}    
+p{
+    font-size: 30px !important;
+}
+button{
+    padding: 10px  25px;
+    color: aliceblue !important;
+}
